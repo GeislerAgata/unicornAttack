@@ -1,0 +1,4 @@
+gracz 30.00
+gracz 1011.76
+gracz 1299.02
+gracz 3422.56
